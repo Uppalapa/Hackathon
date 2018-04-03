@@ -18,8 +18,6 @@ Used Boston crime incident reports dataset starting from June 2015 till date. Th
 This illustration helps to view the crime density in and around Boston. 
 <img src="https://user-images.githubusercontent.com/25045759/38223097-fe0dc11a-36b6-11e8-80d6-c0d6a2344f55.png" width="250" height="500"/>
 
-![rplot04](https://user-images.githubusercontent.com/25045759/38223097-fe0dc11a-36b6-11e8-80d6-c0d6a2344f55.png)
-
 ## UCR Index Crime Rate
 * This is a tree map used to display the crime incident reports hierarchical data.
 * Used UCR (Universal Crime Reporting) part numbers 1, 2, 3 as the variables that describes the area of titles.
