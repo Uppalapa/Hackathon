@@ -9,7 +9,6 @@ Tools: R and Tableau
 Used Boston crime incident reports dataset starting from June 2015 till date. The set of fields in this dataset focuses on capturing the type of incident, when and where the incident occurred in Boston.
 * Data-set is available at [Boston Crime Incident Report Data File](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system/resource/12cb3883-56f5-47de-afa5-3b1cf61b257b)
 
-## <a href="https://github.com/Uppalapa/Dataanalysis-using-Python-Projects/tree/master/midterm"> README</a>
 ## Top 5 Crime Category Distribution
 ![capture 1](https://user-images.githubusercontent.com/25045759/38223091-fdba7dc0-36b6-11e8-8003-1cfdf7f4e3e1.PNG)
 
