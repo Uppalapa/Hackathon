@@ -1,4 +1,6 @@
 # Boston Crime Incident Data Analysis
+## Team: Kamala Nayana, Tejas Bawaskar, Sagar Ghiya, Lakshmi Manaswitha
+
 ## Problem Statement
 Boston is one of the most popular cities in United States and one of the biggest hubs for technical startup’s, universities and historic places. This analysis and visualizations aim to help the residents and visitors stay safe. Also helps Boston police to identify the crime hotspots and improve security in menacing areas. 
 Tools: R and Tableau
